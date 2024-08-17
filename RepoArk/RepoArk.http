@@ -1,0 +1,6 @@
+@RepoArk_HostAddress = http://localhost:5207
+
+GET {{RepoArk_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
